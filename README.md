@@ -11,6 +11,7 @@
 | Χρήστος Λαχανάς | 2018012 | [Github profile](https://github.com/chrislach1)
 
 
+
 ## Please read the following  
 
 - Every new member please update the table with your info. 
